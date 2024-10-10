@@ -1,0 +1,1 @@
+# plugins-wp-change-custom-post-slug
